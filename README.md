@@ -1,0 +1,1 @@
+EN: Using Decision Tree Machine Learning in the RapidMiner application to classify air quality in several countries based on key pollutant parameters such as PM2.5, PM10, NO₂, SO₂, and O₃ against WHO standards, achieving 99% accuracy. The data was obtained from Kaggle.
